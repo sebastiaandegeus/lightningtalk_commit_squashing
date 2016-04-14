@@ -1,0 +1,12 @@
+# No fast forward merge
+
+A
+\
+ F-G-H-I
+
+
+na merge:
+
+A-------J
+\       /
+ F-G-H-I

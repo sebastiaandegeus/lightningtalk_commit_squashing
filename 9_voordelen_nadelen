@@ -1,0 +1,13 @@
+# Voordelen
+
+* Geen lelijke merge commits meer
+* Kleine `fixed this/that` commits worden opgeruimd
+
+# Nadelen
+
+* In het overzicht zie je niet direct of een feature / bugfix merged is
+* Bepaalde keuzes en gedachtegangen bij single commits verdwijnen
+  -> Die moet je dan dus in je squashed commit message opnemen of README of comments
+
+Nog toevoegingen?
+

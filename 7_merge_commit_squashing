@@ -1,0 +1,17 @@
+# Merge commit squashing
+
+A
+\
+ F-G-H-I
+
+
+na merge met commit suashing:
+
+A-------J
+\
+ F-G-H-I
+
+
+J: is een nieuwe commit met alles van F, G, H, I erin,
+   maar met 1 message die de hele feature/release beschrijft.
+

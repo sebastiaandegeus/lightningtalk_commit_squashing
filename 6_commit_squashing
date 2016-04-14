@@ -1,12 +1,3 @@
 Commit quashing:
 
-* df71a27 - (HEAD feature_x) Updated CSS for new elements (4 minutes ago)
-* ba9dd9a - Added new elements to page design (15 minutes ago)
-* f392171 - Added new feature X (1 day ago)
-* d7322aa - (origin/feature_x) Proof of concept for feature X (3 days ago)
-
-git rebase -i HEAD~3
-
-pick f392171 Added new feature X
-pick ba9dd9a Added new elements to page design
-pick df71a27 Updated CSS for new elements
+Zie voorbeeld op command line
